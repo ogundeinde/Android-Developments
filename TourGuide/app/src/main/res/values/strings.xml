@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history_places">Historical Places</string>
+    <string name="food">Food</string>
+    <string name="shopping_place">Shopping Places</string>
+    <string name="hotels">Hotels</string>
+    <string name="subway">Subway</string>
+    <string name="address_1">Unit K2, Stratford Shopping Centre, London E15 1XE</string>
+    <string name="burger">Burger King</string>
+    <string name="address_2">54a Broadway, London E15 1BB</string>
+    <string name="sushi">Sushi Eatery</string>
+    <string name="address_3">40 Frith St, Soho, London W1D 5LN</string>
+    <string name="nandos">Nandos</string>
+    <string name="address_4">1A Romford Rd, London E15 4LJ</string>
+    <string name="pizza">Caloroso Pizza</string>
+    <string name="address_5">6 Terrace Rd, Plaistow, London E13 0PB</string>
+    <string name="address_6">25 Terrace Rd, West ham, London E19 0PB</string>
+    <string name="hut">Pizza Hut</string>
+    <string name="tower">tower of London</string>
+    <string name="square">Trafalgar square</string>
+    <string name="big_ben">big ben</string>
+    <string name="abbey">Westminster Abbey</string>
+    <string name="palace">Buckingham Palace</string>
+    <string name="ye">London Eye</string>
+    <string name="four">Four Seasons Hotel</string>
+    <string name="london">Sunborn London</string>
+    <string name="royal">The Royal</string>
+    <string name="oriental">Oriental</string>
+    <string name="place">The Mandarin Place</string>
+    <string name="placee">The Place</string>
+    <string name="primark">Primak</string>
+    <string name="m_s"><![CDATA[M&S]]></string>
+    <string name="next">Next</string>
+    <string name="lewin">T.M Lewin</string>
+    <string name="lacoste">Lacoste</string>
+    <string name="shopify">Shopify</string>
+</resources>
