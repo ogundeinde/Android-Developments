@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="description" type="id" />
+    <item name="contact" type="id" />
+    <item name="opening_hours" type="id" />
+</resources>
